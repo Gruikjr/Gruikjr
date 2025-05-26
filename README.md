@@ -3,7 +3,7 @@
 <div align="center">
   <img src="kidbuu.gif" width="500" alt="Kid Buu" />
   <h1> Gruikjr | locogruik</h1>
-  <h2><span style="color:#F35DEE;">Kid Buu Energy. Unstoppable Dreams.</span></h2>
+  <h2><span style="color:#F35DEE;">Limitless potential, endless chaos.</span></h2>
 </div>
 
 ---
@@ -55,7 +55,6 @@
 ---
 
 <div align="center">
-  <b><span style="color:#F35DEE;">"Limitless potential, endless chaos."</span><br>
   <b><span style="color:#F35DEE;">"Hoooooh! Uhouhouhooooo!"</span><br>
   <i>— Kid Buu</i>
 </div>
