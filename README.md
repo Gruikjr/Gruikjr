@@ -14,9 +14,9 @@
 
 ### 👦 About Me
 
-- 🧬 **17-year-old French student** with big, unstoppable dreams  
+- 🧬 **17-year-old French student** with big, unstoppable dreams :D
 - 👾 **CEO & Co-founder** of Capital C  
-- 💻 **Full Stack Dev:** HTML, CSS, JavaScript, Python, and maybe others in the near futur 
+- 💻 **coding languages:** HTML, CSS, JavaScript, Python, and maybe others in the near futur 
 - 🎥 **Trains, Photography & Videography** addict  
 - 🕶️ **Cybersecurity Enthusiast** | Ethical hacking is my Majin power  
 - 😈 **Kid Buu lover** — Chaos, creativity, and never giving up
@@ -42,7 +42,7 @@
 
 ### 💡 Fun Facts
 
-- All my projects are my favorites (Majin style!)
+- All my projects are my favorites 
 - Trains & tech — that’s my fusion
 - Channeling Kid Buu: Unpredictable, creative, and always evolving
 
