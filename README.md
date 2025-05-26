@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <img src="kidbuu.gif" width="350" alt="Kid Buu GIF"/>
+  <img src="buuhimself.jpg" width="350" alt="Kid Buu GIF"/>
 </div>
 
 ---
