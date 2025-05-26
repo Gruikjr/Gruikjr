@@ -63,3 +63,5 @@
 Gruikjr/Gruikjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- hi i was here if you found this you are gay lol-->
