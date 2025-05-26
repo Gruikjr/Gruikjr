@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="kidbuu.gif" width="200" alt="Kid Buu" />
-  <h1>👾 Gruikjr | locogruik</h1>
+  <h1> Gruikjr | locogruik</h1>
   <h2><span style="color:#F35DEE;">Kid Buu Energy. Unstoppable Dreams.</span></h2>
 </div>
 
