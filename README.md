@@ -40,7 +40,7 @@
 
 ---
 
-### 💡 Fun Facts
+### 💡 Random Facts
 
 - All my projects are my favorites 
 - Trains & tech — that’s my fusion
