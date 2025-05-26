@@ -16,7 +16,7 @@
 
 - 🧬 **17-year-old French student** with big, unstoppable dreams  
 - 👾 **CEO & Co-founder** of Capital C  
-- 💻 **Full Stack Dev:** HTML, CSS, JavaScript, Python, C++, C#  
+- 💻 **Full Stack Dev:** HTML, CSS, JavaScript, Python, and maybe others in the near futur 
 - 🎥 **Trains, Photography & Videography** addict  
 - 🕶️ **Cybersecurity Enthusiast** | Ethical hacking is my Majin power  
 - 😈 **Kid Buu lover** — Chaos, creativity, and never giving up
@@ -29,8 +29,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)
+
 
 ---
 
