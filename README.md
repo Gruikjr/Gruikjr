@@ -56,7 +56,8 @@
 
 <div align="center">
   <b><span style="color:#F35DEE;">"Limitless potential, endless chaos."</span><br>
-  <i>— Inspired by Kid Buu</i>
+  <b><span style="color:#F35DEE;">"Hoooooh! Uhouhouhooooo!"</span><br>
+  <i>— Kid Buu</i>
 </div>
 
 <!---
